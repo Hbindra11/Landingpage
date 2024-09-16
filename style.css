@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+   
+    box-sizing: border-box;
+    font-family: system-ui;
+    
+    
+   
+    
+   /* background-color: #ebcccc;*/
+}
+
+.petpic-bg {
+    padding: 70px;
+    margin: 0;
+    border-radius: 10px;
+    background-image: url("pets-3715733_1280.jpg");
+     
+  background-position: center;
+  /* Centers the background image */
+  background-size: cover;
+  /* Ensure the image covers the entire section */
+ 
+}
+
